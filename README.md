@@ -13,7 +13,6 @@ Based on the above graph, here are the following Data Analysis
 
 Mid - late 19th century :
     Highest Recorded - 28-29 
-    
     Lowest Recorded -  22-23
 
 Early 20th century:
