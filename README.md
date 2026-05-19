@@ -33,6 +33,13 @@ Mid 20th century:
 
 ![My_img](Frequency_Distributiom.png)
 
+Key Observations:
+- Most temperature values clustered around central ranges
+- Extreme temperature values appeared less frequently
+- Distribution showed moderate spread across observations
+
+This analysis helped identify the overall behavior and consistency of global temperature measurements.
+
 ### Graph-3 : Potential Outliers
 
 ![My_img](Boxplot.png)
