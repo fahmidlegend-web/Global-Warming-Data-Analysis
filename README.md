@@ -6,7 +6,7 @@ Based on global warming report observation, graphs are plot to understand the in
 
 It helps us to know the pattern of temperature increase and the specific range of temperature at a given time
 
-![My_img][trend_analysis.png]
+![My_img](trend_analysis.png)
 
 
 Based on the above graph, here are the following Data Analysis
@@ -26,11 +26,11 @@ Mid 20th century:
 
 ### Graph-2 : Frequency Distribution
 
-![My_img][Frequency_Distributiom.png]
+![My_img](Frequency_Distributiom.png)
 
 ### Graph-3 : Potential Outliers
 
-![My_img][Boxplot.png]
+![My_img](Boxplot.png)
 
 
 Boxplots were used to analyze spread, quartiles, and potential outliers.
