@@ -12,15 +12,18 @@ It helps us to know the pattern of temperature increase and the specific range o
 Based on the above graph, here are the following Data Analysis
 
 Mid - late 19th century :
+
     Highest Recorded - 28-29 
     Lowest Recorded -  22-23
 
 Early 20th century:
+
      Highest Recorded - Abobe 29(in 1906)
      
     Lowest Recorded -  24
 
 Mid 20th century:
+
     Highest Recorded - Slighly 29
     
     Lowest Recorded -  24-25
